@@ -11,6 +11,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import org.w3c.dom.Text;
+
 public class MainActivity extends AppCompatActivity {
 
     public final String TAG = "4ITF";
@@ -27,11 +29,14 @@ public class MainActivity extends AppCompatActivity {
         TextView main_locationChangeTextView = findViewById(R.id.main_locationChangeTextView);
         TextView main_distanceChangeTextView = findViewById(R.id.main_distanceChangeTextView);
 
+        TextView main_titleTextView = findViewById(R.id.main_titleTextView);
+        main_titleTextView.setText(R.string.image_title);
+
         Button main_backButton = findViewById(R.id.main_backButton);
         Button main_nextButton = findViewById(R.id.main_nextButton);
 
         // Load image dynamically
-        main_imageView.setImageResource(R.drawable.reichtag);
+        main_imageView.setImageResource(R.drawable.bangui);
         Log.i(TAG, "loaded image on ImageView");
 
         // Set Title

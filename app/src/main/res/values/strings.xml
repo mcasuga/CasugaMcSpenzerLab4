@@ -6,6 +6,8 @@
     <string name="back">Back</string>
     <string name="next">Next</string>
     <string name="activity_life_cycle">Activity Life Cycle</string>
-    <string name="location_value">Germany</string>
-    <string name="location_destination">9878.44 km</string>
+    <string name="location_value">Philippines</string>
+    <string name="location_destination">539.7 km</string>
+    <string name="bangui_windmills">Bangui Windmills</string>
+    <string name="image_title">Bangui Windmills</string>
 </resources>
