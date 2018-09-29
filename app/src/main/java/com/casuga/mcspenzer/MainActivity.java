@@ -1,6 +1,5 @@
-package mcspenzer.casuga.com.casugamcspenzerlab4;
+package com.casuga.mcspenzer;
 
-import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,10 +10,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.w3c.dom.Text;
+import com.casuga.mcspenzer.R;
 
 public class MainActivity extends AppCompatActivity {
-
     public final String TAG = "4ITF";
 
     @Override

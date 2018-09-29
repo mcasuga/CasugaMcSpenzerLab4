@@ -1,4 +1,4 @@
-package mcspenzer.casuga.com.casugamcspenzerlab4;
+package com.casuga.mcspenzer.casugamcspenzerlab4;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
