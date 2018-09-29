@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CasugaMcSpenzerLab4</string>
+    <string name="title">Title</string>
+    <string name="location">Location:</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="activity_life_cycle">Activity Life Cycle</string>
+    <string name="location_value">Germany</string>
+    <string name="location_destination">9878.44 km</string>
+</resources>
